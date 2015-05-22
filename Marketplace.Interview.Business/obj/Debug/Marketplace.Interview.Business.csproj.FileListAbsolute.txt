@@ -1,0 +1,8 @@
+E:\Projects\MarketplaceInterview-master\Marketplace.Interview\Marketplace.Interview.Business\bin\Debug\Marketplace.Interview.Business.dll
+E:\Projects\MarketplaceInterview-master\Marketplace.Interview\Marketplace.Interview.Business\bin\Debug\Marketplace.Interview.Business.pdb
+E:\Projects\MarketplaceInterview-master\Marketplace.Interview\Marketplace.Interview.Business\bin\Debug\Castle.Core.dll
+E:\Projects\MarketplaceInterview-master\Marketplace.Interview\Marketplace.Interview.Business\bin\Debug\Castle.Windsor.dll
+E:\Projects\MarketplaceInterview-master\Marketplace.Interview\Marketplace.Interview.Business\bin\Debug\Castle.Core.xml
+E:\Projects\MarketplaceInterview-master\Marketplace.Interview\Marketplace.Interview.Business\bin\Debug\Castle.Windsor.xml
+E:\Projects\MarketplaceInterview-master\Marketplace.Interview\Marketplace.Interview.Business\obj\Debug\Marketplace.Interview.Business.dll
+E:\Projects\MarketplaceInterview-master\Marketplace.Interview\Marketplace.Interview.Business\obj\Debug\Marketplace.Interview.Business.pdb
